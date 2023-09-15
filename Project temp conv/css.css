@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    margin-bottom: 20px;
+}
+#inputTemp {
+    width: 100px;
+    padding: 5px;
+    font-size: 16px;
+}
+#unitSelect {
+    font-size: 16px;
+    padding: 5px;
+}
+#convertBtn {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
